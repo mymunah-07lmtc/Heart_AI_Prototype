@@ -1,0 +1,18 @@
+# Temporary audio files
+temp_upload.wav
+temp_recording.tmp
+temp_audio.wav
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (too large for GitHub)
+data/
+*.zip
+*.7z
+
+# Environment
+venv/
+env/
