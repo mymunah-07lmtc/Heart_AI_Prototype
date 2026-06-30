@@ -1,6 +1,6 @@
 # 🫀 AI-Powered Heart Sound Screener
 
-**Research Prototype | Maimouna Tougoutcho Coulibaly**
+**Research Prototype | By Maimouna Tougoutcho Coulibaly**
 
 An end-to-end machine learning prototype for detecting heart murmurs in pediatric patients. This project extends the lung sound screener framework to cardiac auscultation, aiming to screen for rheumatic heart disease in low-resource settings.
 
